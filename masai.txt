@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Git Session
 Hello Masai
+=======
+Hello Masai
+Git Session
+>>>>>>> 7fe924cfcb4af3f26781e7269e4b0ee2eb040b91
